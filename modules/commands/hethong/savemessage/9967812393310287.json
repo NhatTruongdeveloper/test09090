@@ -1,0 +1,878 @@
+{
+    "100047128875560": [
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".banking mbbank 0786888655 150000 filebot",
+            "time": "13/06/2025 17:35:39",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".banking",
+            "time": "13/06/2025 17:35:53",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".banking mbbank 0786888655 150000 file",
+            "time": "13/06/2025 17:36:08",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load 1bank",
+            "time": "13/06/2025 17:36:16",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "error canvas",
+            "time": "13/06/2025 17:36:25",
+            "attachment": []
+        }
+    ],
+    "100006158207808": [
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "🐸",
+            "time": "13/06/2025 17:38:26",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "Brother",
+            "time": "13/06/2025 17:38:38",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "",
+            "time": "13/06/2025 17:56:15",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_ohc=7qXKz9PcP9IQ7kNvwHqdZMF&_nc_oc=Adk0qiNfbEVTGwlWteA0bdSYjuYCKQdx1YncQIGCWSU1K3lc7gqdpcOdCS39NvWpXLc&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=fFIqkG0qXiWVYjIfe61LAw&oh=00_AfM_C5jqz9CwmWOiQAwe5ARZcE3NvCfEYDx5IoMOdhBtUg&oe=6851EE8B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "bot",
+            "time": "13/06/2025 17:56:20",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "bot",
+            "time": "13/06/2025 17:56:47",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "prefix",
+            "time": "13/06/2025 17:57:34",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/hack me",
+            "time": "13/06/2025 17:58:10",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/help",
+            "time": "13/06/2025 18:00:43",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/job",
+            "time": "13/06/2025 18:01:05",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "1",
+            "time": "13/06/2025 18:01:14",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/help",
+            "time": "13/06/2025 18:01:23",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/admin",
+            "time": "13/06/2025 18:02:57",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/admin",
+            "time": "13/06/2025 18:03:13",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "admin",
+            "time": "13/06/2025 18:03:16",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "zuyan",
+            "time": "13/06/2025 18:03:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "",
+            "time": "13/06/2025 18:07:16",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_ohc=7qXKz9PcP9IQ7kNvwHqdZMF&_nc_oc=Adk0qiNfbEVTGwlWteA0bdSYjuYCKQdx1YncQIGCWSU1K3lc7gqdpcOdCS39NvWpXLc&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=_Ijz5tm2LcqG5vtw1ybFwA&oh=00_AfPoMUAb_bpResfQXKT-ihu78lqbNcPC-XVelzh9q4GQVA&oe=6851EE8B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/cmd women.js",
+            "time": "13/06/2025 18:07:35",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/cmd",
+            "time": "13/06/2025 18:07:48",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/help",
+            "time": "13/06/2025 18:09:03",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/load help",
+            "time": "13/06/2025 18:09:38",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/help",
+            "time": "13/06/2025 18:09:51",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/help",
+            "time": "13/06/2025 18:10:01",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/loadall",
+            "time": "13/06/2025 18:10:17",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "",
+            "time": "13/06/2025 18:10:45",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_ohc=7qXKz9PcP9IQ7kNvwHqdZMF&_nc_oc=Adk0qiNfbEVTGwlWteA0bdSYjuYCKQdx1YncQIGCWSU1K3lc7gqdpcOdCS39NvWpXLc&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=db3c9nICS9DqPJ_khNzkYg&oh=00_AfNVvdCoSpedlNY4M2Wh3122mvpqsGuuma784YWgMrae1w&oe=6851EE8B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/cmd load help",
+            "time": "13/06/2025 18:11:48",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/help",
+            "time": "13/06/2025 18:12:12",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/cmd load help",
+            "time": "13/06/2025 18:14:16",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/help",
+            "time": "13/06/2025 18:14:23",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/help",
+            "time": "13/06/2025 18:14:34",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/help hack",
+            "time": "13/06/2025 18:14:55",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/cmd load help",
+            "time": "13/06/2025 18:18:00",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/help",
+            "time": "13/06/2025 18:18:06",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "",
+            "time": "13/06/2025 18:18:55",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_ohc=7qXKz9PcP9IQ7kNvwHqdZMF&_nc_oc=Adk0qiNfbEVTGwlWteA0bdSYjuYCKQdx1YncQIGCWSU1K3lc7gqdpcOdCS39NvWpXLc&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=5T88DwT2vfOhLLnAw_1WJQ&oh=00_AfMaSVHXpXDOvDGJ13ees5fZnl3WCdpz9nmBfk-PZ2elJw&oe=6851EE8B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/admin",
+            "time": "13/06/2025 18:19:06",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "Zuyan",
+            "time": "13/06/2025 18:19:15",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/WAR",
+            "time": "13/06/2025 18:19:28",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/war @Nguyễn Phát",
+            "time": "13/06/2025 18:19:37",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/cmd load war",
+            "time": "13/06/2025 18:22:31",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/war @Nguyễn Phát",
+            "time": "13/06/2025 18:22:46",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/cmd load war",
+            "time": "13/06/2025 18:24:56",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/war",
+            "time": "13/06/2025 18:25:06",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/war @Nguyễn Phát",
+            "time": "13/06/2025 18:25:12",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/cmd load war",
+            "time": "13/06/2025 18:27:17",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/uid",
+            "time": "13/06/2025 18:27:24",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/cmd load war",
+            "time": "13/06/2025 18:28:01",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/war",
+            "time": "13/06/2025 18:28:08",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/war @Nguyễn Phát",
+            "time": "13/06/2025 18:28:13",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/war @Nguyễn Phát",
+            "time": "13/06/2025 18:28:29",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/war @ me",
+            "time": "13/06/2025 18:28:51",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/war @everyone",
+            "time": "13/06/2025 18:29:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "",
+            "time": "13/06/2025 18:30:31",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_ohc=7qXKz9PcP9IQ7kNvwHqdZMF&_nc_oc=Adk0qiNfbEVTGwlWteA0bdSYjuYCKQdx1YncQIGCWSU1K3lc7gqdpcOdCS39NvWpXLc&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=v72dLqErc4_LKZu5Ql9vXQ&oh=00_AfPtt0aiEAnykIx7SLAmuWrCjA2n15oM9JzuYIm9O--mLg&oe=6851EE8B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "ᎷᎡ ᏃᏬᎩᎪᏁ",
+            "message": "/admin",
+            "time": "13/06/2025 18:30:41",
+            "attachment": []
+        }
+    ],
+    "61550060528012": [
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 17:56:21",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "ᎷᎡ ᏃᏬᎩᎪᏁ,『Bondhu to boro hoye gelo, tor bokachoda bodlei na 😂 』",
+            "time": "13/06/2025 17:56:21",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Awww tmi amr everything 😚❤️",
+            "time": "13/06/2025 17:56:22",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 17:56:47",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "ᎷᎡ ᏃᏬᎩᎪᏁ,『Group ta chill silo, tor message ashlei hang hoy 😒 』",
+            "time": "13/06/2025 17:56:48",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 17:56:57",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "This Is My Prefix ⇉ [ / ]\n💝",
+            "time": "13/06/2025 17:57:35",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 17:57:36",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 17:58:04",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Miran Islam Imran",
+            "message": "Maal KonsA Phookte ho sAheb🥲 , Ekdum Badiya Quality ka lagta hai 🥴chal sahi se Command Bata package Ya Dusri h ? 🙄",
+            "time": "13/06/2025 17:58:11",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Command list 📄\nMade by Prîyánsh Rajput 🥀\nFor More Information type /help (command name) ✨\n󰂆 󰟯 󰟰 󰟷 󰟺 󰟵 󰟫\n\n「 1 」/inf\n「 2 」/out\n「 3 」/tea\n「 4 」/6mui\n「 5 」/Arun\n「 6 」/bio\n「 7 」/offbot\n「 8 」/rushia\n「 9 」/search\n「 10 」/job\n\nPage (1/28)",
+            "time": "13/06/2025 18:00:49",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 18:00:51",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Miran Islam Imran",
+            "message": "Coin Earn Job Center\n\n1. work1\n2. work2.\n3. work3.\n4. work4\n5. work5\n6. work6\n7. Update soon...\n\n⚡️Please reply to the message and choose by number",
+            "time": "13/06/2025 18:01:06",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Miran Islam Imran",
+            "message": "⚡️You are working at the power plant in the industrial zone and earn 550$",
+            "time": "13/06/2025 18:01:15",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Command list 📄\nMade by Prîyánsh Rajput 🥀\nFor More Information type /help (command name) ✨\n󰂆 󰟯 󰟰 󰟷 󰟺 󰟵 󰟫\n\n「 1 」/inf\n「 2 」/out\n「 3 」/tea\n「 4 」/6mui\n「 5 」/Arun\n「 6 」/bio\n「 7 」/offbot\n「 8 」/rushia\n「 9 」/search\n「 10 」/job\n\nPage (1/28)",
+            "time": "13/06/2025 18:01:24",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 18:03:23",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "ℹ️ [!] Ye Command Kaam Nahi Kar Raha Koi Dosra Try Karo, /help cmd Use For More usage 😉 ℹ️",
+            "time": "13/06/2025 18:07:36",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "ℹ️ [!] Ye Command Kaam Nahi Kar Raha Koi Dosra Try Karo, /help cmd Use For More usage 😉 ℹ️",
+            "time": "13/06/2025 18:07:50",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Command list 📄\nMade by Prîyánsh Rajput 🥀\nFor More Information type /help (command name) ✨\n󰂆 󰟯 󰟰 󰟷 󰟺 󰟵 󰟫\n\n「 1 」/inf\n「 2 」/out\n「 3 」/tea\n「 4 」/6mui\n「 5 」/Arun\n「 6 」/bio\n「 7 」/offbot\n「 8 」/rushia\n「 9 」/search\n「 10 」/job\n\nPage (1/28)",
+            "time": "13/06/2025 18:09:04",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "[OK] Reloading config...",
+            "time": "13/06/2025 18:09:39",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Command list 📄\nMade by Prîyánsh Rajput 🥀\nFor More Information type /help (command name) ✨\n󰂆 󰟯 󰟰 󰟷 󰟺 󰟵 󰟫\n\n「 1 」/inf\n「 2 」/out\n「 3 」/tea\n「 4 」/6mui\n「 5 」/Arun\n「 6 」/bio\n「 7 」/offbot\n「 8 」/rushia\n「 9 」/search\n「 10 」/job\n\nPage (1/28)",
+            "time": "13/06/2025 18:09:52",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 18:09:54",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Command list 📄\nMade by Prîyánsh Rajput 🥀\nFor More Information type /help (command name) ✨\n󰂆 󰟯 󰟰 󰟷 󰟺 󰟵 󰟫\n\n「 1 」/inf\n「 2 」/out\n「 3 」/tea\n「 4 」/6mui\n「 5 」/Arun\n「 6 」/bio\n「 7 」/offbot\n「 8 」/rushia\n「 9 」/search\n「 10 」/job\n\nPage (1/28)",
+            "time": "13/06/2025 18:10:02",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 18:10:04",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "[OK] Reloading config...",
+            "time": "13/06/2025 18:10:19",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "[ 𝗖𝗠𝗗 ] » Commands that have just crashed when the system loads: - help reason:SyntaxError: Invalid or unexpected token at /root/Priyansh-bot-v2-main/Priyansh/commands/help.js:3\nmodule.exports.languages = { \"en\": { \"moduleInfo\": \"📦 𝗠𝗼𝗱𝘂𝗹𝗲: %1\\n📖 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: %2\\n📂 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: %4\\n🧾 𝗨𝘀𝗮𝗴𝗲: %3\\n⏱️ 𝗖𝗼𝗼𝗹𝗱𝗼𝘄𝗻: %5 sec\\n🔑 𝗣𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻: %6\\n👨‍💻 𝗖𝗿𝗲𝗱𝗶𝘁: %7\", \"helpList\": \"✨ There are %1 commands in this bot. Use: \"%2help [command]\" for full info! ✨\", \"user\": \"User\", \"adminGroup\": \"Group Admin\", \"adminBot\": \"Bot Admin\" } };\n                                                                                                                                                                                                                                                                                                ^\n\nSyntaxError: Invalid or unexpected token\n    at wrapSafe (node:internal/modules/cjs/loader:1472:18)\n    at Module._compile (node:internal/modules/cjs/loader:1501:20)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)\n    at Module.load (node:internal/modules/cjs/loader:1275:32)\n    at Module._load (node:internal/modules/cjs/loader:1096:12)\n    at Module.require (node:internal/modules/cjs/loader:1298:19)\n    at require (node:internal/modules/helpers:182:18)\n    at loadCommand (/root/Priyansh-bot-v2-main/Priyansh/commands/cmd.js:33:29)\n    at module.exports.run (/root/Priyansh-bot-v2-main/Priyansh/commands/cmd.js:153:25)\n    at /root/Priyansh-bot-v2-main/includes/handle/handleCommand.js:131:15\n    at /root/Priyansh-bot-v2-main/includes/listen.js:275:13\n    at listenerCallback (/root/Priyansh-bot-v2-main/Priyansh.js:288:20)\n    at resolveAttachmentUrl (/root/Priyansh-bot-v2-main/node_modules/fca-priyansh/src/listenMqtt.js:448:11)\n    at parseDelta (/root/Priyansh-bot-v2-main/node_modules/fca-priyansh/src/listenMqtt.js:463:5)\n    at MqttClient.HandleMessage (/root/Priyansh-bot-v2-main/node_modules/fca-priyansh/src/listenMqtt.js:283:9)\n    at MqttClient.emit (node:events:524:28)\n    at Arguments.<anonymous> (/root/Priyansh-bot-v2-main/node_modules/mqtt/lib/client.js:1529:27)\n    at MqttClient.options.customHandleAcks (/root/Priyansh-bot-v2-main/node_modules/mqtt/lib/client.js:270:150)\n    at MqttClient._handlePublish (/root/Priyansh-bot-v2-main/node_modules/mqtt/lib/client.js:1522:15)\n    at MqttClient._handlePacket (/root/Priyansh-bot-v2-main/node_modules/mqtt/lib/client.js:529:12)\n    at work (/root/Priyansh-bot-v2-main/node_modules/mqtt/lib/client.js:430:12)\n    at writable._write (/root/Priyansh-bot-v2-main/node_modules/mqtt/lib/client.js:444:5)",
+            "time": "13/06/2025 18:11:50",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 18:11:51",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 18:11:52",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Command list 📄\nMade by Prîyánsh Rajput 🥀\nFor More Information type /help (command name) ✨\n󰂆 󰟯 󰟰 󰟷 󰟺 󰟵 󰟫\n\n「 1 」/inf\n「 2 」/out\n「 3 」/tea\n「 4 」/6mui\n「 5 」/Arun\n「 6 」/bio\n「 7 」/offbot\n「 8 」/rushia\n「 9 」/search\n「 10 」/job\n\nPage (1/28)",
+            "time": "13/06/2025 18:12:13",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 18:12:14",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "[ 𝗖𝗠𝗗 ] » The Priyansh Bot system has just loaded successfully 1 command ♻️\n━━━━━━━━━━━━━━━\n[ 𝗟𝗼𝗮𝗱𝗲𝗱 ] » 𝗺𝗼𝗱𝘂𝗹𝗲𝘀 (help.js) 💓",
+            "time": "13/06/2025 18:14:17",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "[ 𝗖𝗠𝗗 ] » The Priyansh Bot system has just loaded successfully 1 command ♻️\n━━━━━━━━━━━━━━━\n[ 𝗟𝗼𝗮𝗱𝗲𝗱 ] » 𝗺𝗼𝗱𝘂𝗹𝗲𝘀 (help.js) 💓",
+            "time": "13/06/2025 18:18:01",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 18:18:02",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 18:18:07",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "📘 𝗖𝗼𝗺𝗺𝗮𝗻𝗱 𝗟𝗶𝘀𝘁\n────────────────\n👑 𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗕𝘆: MR ZUYAN\nℹ️ 𝗨𝘀𝗲: /help [command name] for details\n────────────────\n\n🔹 1. /inf\n🔹 2. /out\n🔹 3. /tea\n🔹 4. /6mui\n🔹 5. /Arun\n🔹 6. /bio\n🔹 7. /offbot\n🔹 8. /rushia\n🔹 9. /search\n🔹 10. /job\n\n📄 𝗣𝗮𝗴𝗲: (1/28)",
+            "time": "13/06/2025 18:18:07",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 18:18:09",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 18:19:16",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Miran Islam Imran",
+            "message": "⚠️ Keu ke @mention kor nai, war start korte parbo na!",
+            "time": "13/06/2025 18:19:29",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "[ 𝗖𝗠𝗗 ] » The Priyansh Bot system has just loaded successfully 1 command ♻️\n━━━━━━━━━━━━━━━\n[ 𝗟𝗼𝗮𝗱𝗲𝗱 ] » 𝗺𝗼𝗱𝘂𝗹𝗲𝘀 (war.js) 💓",
+            "time": "13/06/2025 18:22:32",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 18:22:34",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "[ 𝗖𝗠𝗗 ] » The Priyansh Bot system has just loaded successfully 1 command ♻️\n━━━━━━━━━━━━━━━\n[ 𝗟𝗼𝗮𝗱𝗲𝗱 ] » 𝗺𝗼𝗱𝘂𝗹𝗲𝘀 (war.js) 💓",
+            "time": "13/06/2025 18:24:57",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 18:24:59",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Miran Islam Imran",
+            "message": "⚠️ Keu ke @mention kor nai, war start korte parbo na!",
+            "time": "13/06/2025 18:25:07",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Miran Islam Imran",
+            "message": "‎⚔️ War command chalche! Tui @Nguyễn ke challenge dicchis!",
+            "time": "13/06/2025 18:25:13",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "[ 𝗖𝗠𝗗 ] » The Priyansh Bot system has just loaded successfully 1 command ♻️\n━━━━━━━━━━━━━━━\n[ 𝗟𝗼𝗮𝗱𝗲𝗱 ] » 𝗺𝗼𝗱𝘂𝗹𝗲𝘀 (war.js) 💓",
+            "time": "13/06/2025 18:27:19",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 18:27:20",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "100006158207808",
+            "time": "13/06/2025 18:27:24",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "[ 𝗖𝗠𝗗 ] » The Priyansh Bot system has just loaded successfully 1 command ♻️\n━━━━━━━━━━━━━━━\n[ 𝗟𝗼𝗮𝗱𝗲𝗱 ] » 𝗺𝗼𝗱𝘂𝗹𝗲𝘀 (war.js) 💓",
+            "time": "13/06/2025 18:28:03",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 18:28:04",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Miran Islam Imran",
+            "message": "⚠️ Keu ke @mention kor nai, war start korte parbo na!",
+            "time": "13/06/2025 18:28:09",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "You just used this command and\ntry again later 0.208 In another second, use the order again slowly",
+            "time": "13/06/2025 18:28:13",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Miran Islam Imran",
+            "message": "⚠️ Keu ke @mention kor nai, war start korte parbo na!",
+            "time": "13/06/2025 18:28:52",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Miran Islam Imran",
+            "message": "Yes babu, ami tmr smart GF💘",
+            "time": "13/06/2025 18:30:53",
+            "attachment": []
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+✖ Lỗi tại autosetname.js: Cannot destructure property 'join' of 'global.nodemodule.path' as it is undefined.
+
+✖ Lỗi tại autoyt.js: Tên module bị trùng với một module mang cùng tên khác!
+
+✖ Lỗi tại bauucua.js: Tên module bị trùng với một module mang cùng tên khác!
+
+✖ Lỗi tại boxid.js: Tên module bị trùng với một module mang cùng tên khác!
+
+✖ Lỗi tại capcut.js: Tên module bị trùng với một module mang cùng tên khác!
+
+✖ Lỗi tại checkwed.js: Tên module bị trùng với một module mang cùng tên khác!
+
+✖ Lỗi tại info1.js: Tên module bị trùng với một module mang cùng tên khác!
+
+✖ Lỗi tại ngl.js: Tên module bị trùng với một module mang cùng tên khác!
+
+✖ Lỗi tại runmoky.js: Tên module bị trùng với một module mang cùng tên khác!
+
+✖ Lỗi tại sendnoti.js: Tên module bị trùng với một module mang cùng tên khác!
+
+✖ Lỗi tại setprefix.js: Tên module bị trùng với một module mang cùng tên khác!
+
+✖ Lỗi tại tap.js: Tên module bị trùng với một module mang cùng tên khác!
+
+✖ Lỗi tại thoitiet.js: Tên module bị trùng với một module mang cùng tên khác!
+
+✖ Lỗi tại xsmb.js: Tên module bị trùng với một module mang cùng tên khác!
+
+✖ Lỗi tại ytb.js: Tên module bị trùng với một module mang cùng tên khác!
+
+✖ Lỗi tại đổi.js: Tên module bị trùng với một module mang cùng tên khác!
+
+✖ Lỗi tại leaveNoti.js: Unexpected token ')'
